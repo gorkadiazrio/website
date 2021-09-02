@@ -639,6 +639,15 @@ progress {
   margin-left: auto;
 }
 
+/* Personal Styles START*/
+
+.slider-index {
+  background-color: #bb2d3b;
+  height: 15em;
+}
+
+/* Personal Styles END */
+
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
